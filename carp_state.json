@@ -2,7 +2,7 @@
   "nonces": {
     "Ca6a1f23be8ebf1e23": 7,
     "Cacdb08d041383dd78": 1,
-    "Cadcc809699584cca9": 4
+    "Cadcc809699584cca9": 5
   },
   "wallet": {
     "Ca40c8f343911748e3": 100,
@@ -10,10 +10,10 @@
     "Ca6a1f23be8ebf1e23": 99300,
     "Ca6eb22bb781b4df8b": 100,
     "Ca861dd8fe9a8e0155": 100,
-    "Caaea786275226b093": 100,
+    "Caaea786275226b093": 5000100,
     "Cabf5ade19fa8ace11": 100,
     "Cacdb08d041383dd78": 0,
-    "Cadcc809699584cca9": 9899990,
+    "Cadcc809699584cca9": 4899990,
     "Cafa10b5954b5f202d": 100
   }
 }
